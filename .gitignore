@@ -1,0 +1,103 @@
+# =====================================================
+# GENERAL (applies to everything)
+# =====================================================
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (CRITICAL)
+.env
+.env.*
+!.env.example
+
+# =====================================================
+# DEPENDENCIES
+# =====================================================
+
+node_modules/
+
+# =====================================================
+# BACKEND (Next.js + Node + MongoDB)
+# =====================================================
+
+# Next.js build
+.next/
+out/
+dist/
+
+# Coverage
+coverage/
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# PIDs
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Mongo / backups
+*.dump
+*.bak
+
+# =====================================================
+# MOBILE (React Native)
+# =====================================================
+
+# React Native / Expo
+.expo/
+.expo-shared/
+.expo-asset-cache/
+
+# Metro
+.metro-cache/
+*.metro-cache
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+.gradle/
+*.keystore
+*.jks
+local.properties
+
+# iOS
+ios/build/
+ios/Pods/
+ios/DerivedData/
+ios/*.xcworkspace
+ios/*.xcodeproj/project.xcworkspace
+ios/*.xcuserdata
+Pods/
+
+# React Native build outputs
+**/build/
+dist/
+
+# React Native logs
+react-native-debugger.log
+
+# =====================================================
+# OPTIONAL DEV TOOLS
+# =====================================================
+
+# Testing
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
