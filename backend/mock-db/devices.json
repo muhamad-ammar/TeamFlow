@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "userId": 16,
+        "deviceId": "29a7c5fd-84e7-49f3-a0d6-6d1743dbdfb3",
+        "platform": "ios",
+        "fcmToken": "1ac0ad57-f027-415c-90dc-fc7b9e8dc439",
+        "lastActive": "3/17/2026"
+    },
+    {
+        "id": 2,
+        "userId": 20,
+        "deviceId": "18a779ca-cafc-4458-b7a6-b4388f2eacde",
+        "platform": "android",
+        "fcmToken": "8157baef-8892-4063-a4cc-01ae33fe3726",
+        "lastActive": "6/3/2026"
+    },
+    {
+        "id": 3,
+        "userId": 12,
+        "deviceId": "bb269f46-8c4a-4d4e-82e2-0a6e2af96236",
+        "platform": "ios",
+        "fcmToken": "b9f1b46b-47e0-4cb4-962a-418dacdd7cc9",
+        "lastActive": "6/10/2025"
+    },
+    {
+        "id": 4,
+        "userId": 4,
+        "deviceId": "e1abee69-77bf-496f-9139-df47349ffac0",
+        "platform": "ios",
+        "fcmToken": "202beb6b-e23d-4bcd-8176-3d3f16a8166a",
+        "lastActive": "4/8/2025"
+    },
+    {
+        "id": 5,
+        "userId": 5,
+        "deviceId": "36221177-2423-426c-afd5-bbae6514ba93",
+        "platform": "ios",
+        "fcmToken": "c9707922-4229-4f2a-b747-13395da5f5f7",
+        "lastActive": "1/4/2026"
+    },
+    {
+        "id": 6,
+        "userId": 11,
+        "deviceId": "62689462-c1d4-4ef3-aed9-1646bba48de5",
+        "platform": "ios",
+        "fcmToken": "3b1c227c-7454-4905-b176-805f2464640f",
+        "lastActive": "5/30/2025"
+    },
+    {
+        "id": 7,
+        "userId": 10,
+        "deviceId": "cc3940bc-1346-4e29-a4ce-bdf97609e48b",
+        "platform": "android",
+        "fcmToken": "7882fcf3-1f23-4597-a4c4-6156ff84b309",
+        "lastActive": "9/2/2025"
+    },
+    {
+        "id": 8,
+        "userId": 11,
+        "deviceId": "d75a1192-ef4f-4795-870f-250c02402fc5",
+        "platform": "android",
+        "fcmToken": "358a209f-aaaf-4cb2-b7ba-063a8706b6d9",
+        "lastActive": "7/1/2025"
+    },
+    {
+        "id": 9,
+        "userId": 8,
+        "deviceId": "8a3a0576-cb54-4e4f-bced-337be9fb4998",
+        "platform": "android",
+        "fcmToken": "694cb1aa-fa12-41de-b9b7-c5a07eeb64af",
+        "lastActive": "11/21/2025"
+    },
+    {
+        "id": 10,
+        "userId": 9,
+        "deviceId": "cc6fb58c-5521-4a9f-abce-51bfd3c194b0",
+        "platform": "android",
+        "fcmToken": "7a438b20-aedb-497a-8a74-fbaa2b6e5e13",
+        "lastActive": "9/10/2026"
+    },
+    {
+        "id": 11,
+        "userId": 9,
+        "deviceId": "226321d1-517f-4037-8b5c-2318e1f7d57b",
+        "platform": "ios",
+        "fcmToken": "c931e100-7fa4-477b-9c5b-653b802bc43b",
+        "lastActive": "4/12/2026"
+    },
+    {
+        "id": 12,
+        "userId": 17,
+        "deviceId": "ad79cfdc-5555-4fe5-932f-352a5070624b",
+        "platform": "android",
+        "fcmToken": "afd7c5d6-8660-496f-9bde-dc9f4b29098b",
+        "lastActive": "7/29/2026"
+    },
+    {
+        "id": 13,
+        "userId": 13,
+        "deviceId": "b90022f3-8982-44e6-b31f-83a6745ad0ca",
+        "platform": "ios",
+        "fcmToken": "a906c836-0b9f-47f6-81a1-4c3b5d06ffe4",
+        "lastActive": "8/21/2026"
+    },
+    {
+        "id": 14,
+        "userId": 15,
+        "deviceId": "30e0a478-94d0-42e6-8037-a92985dcee9c",
+        "platform": "ios",
+        "fcmToken": "e899af46-2c61-448b-a40a-d18d0a85a6bd",
+        "lastActive": "2/22/2025"
+    },
+    {
+        "id": 15,
+        "userId": 9,
+        "deviceId": "ce19efa4-de70-48ee-9873-9392786c10f9",
+        "platform": "ios",
+        "fcmToken": "1d3d93db-e2a8-415d-9348-6946e60208fc",
+        "lastActive": "7/5/2026"
+    },
+    {
+        "id": 16,
+        "userId": 17,
+        "deviceId": "9207b2a7-6077-46ae-9233-b711e6081580",
+        "platform": "ios",
+        "fcmToken": "fa847779-2341-411a-b24c-5dc5c4461df6",
+        "lastActive": "3/6/2025"
+    },
+    {
+        "id": 17,
+        "userId": 20,
+        "deviceId": "1970bd02-953c-402e-b198-c637c19e0b27",
+        "platform": "ios",
+        "fcmToken": "386df976-e6c4-4c87-bfb5-14567e48a8ad",
+        "lastActive": "1/20/2025"
+    },
+    {
+        "id": 18,
+        "userId": 11,
+        "deviceId": "b71b57b2-3547-4c85-963c-ea9e8b314dbf",
+        "platform": "android",
+        "fcmToken": "0b53a6e5-06f5-4f38-9cee-bfa64540cec5",
+        "lastActive": "4/8/2025"
+    },
+    {
+        "id": 19,
+        "userId": 17,
+        "deviceId": "bd27aa0b-3c8d-4b78-9176-d311cd0e6048",
+        "platform": "android",
+        "fcmToken": "4a0a5384-5783-4e50-b5cb-6e21b484024a",
+        "lastActive": "12/22/2025"
+    },
+    {
+        "id": 20,
+        "userId": 17,
+        "deviceId": "46ca7bb8-dd23-49bb-b5d4-7d22e3601bc3",
+        "platform": "ios",
+        "fcmToken": "14faeedc-0d4a-4829-9282-469416edf12b",
+        "lastActive": "1/14/2025"
+    },
+    {
+        "id": 21,
+        "userId": 19,
+        "deviceId": "ef23cfaa-cf19-4c64-a044-61e93bfa26d2",
+        "platform": "android",
+        "fcmToken": "0344d61e-e970-40fc-91cb-2c37f7625388",
+        "lastActive": "12/18/2025"
+    },
+    {
+        "id": 22,
+        "userId": 9,
+        "deviceId": "3f796ec2-328e-4346-9659-0b1e44283e18",
+        "platform": "ios",
+        "fcmToken": "17b35da9-ef0a-4cec-aee7-3839447f0375",
+        "lastActive": "1/3/2025"
+    },
+    {
+        "id": 23,
+        "userId": 15,
+        "deviceId": "c7a6ccd9-0ab6-4faf-a62d-2a1f2e0182ff",
+        "platform": "android",
+        "fcmToken": "229af706-9cc3-4d13-a365-8c80f1545edc",
+        "lastActive": "1/14/2026"
+    },
+    {
+        "id": 24,
+        "userId": 17,
+        "deviceId": "c0a44c54-051c-49a4-8cfb-60192e2502c9",
+        "platform": "android",
+        "fcmToken": "31847a7e-2b79-4946-81fc-0357d97bf76d",
+        "lastActive": "6/18/2025"
+    },
+    {
+        "id": 25,
+        "userId": 13,
+        "deviceId": "43d4f6a4-9c59-4551-b84f-66cc0c55bc60",
+        "platform": "android",
+        "fcmToken": "8e5b447a-5474-4850-8bfd-cc0ff542df77",
+        "lastActive": "7/8/2025"
+    },
+    {
+        "id": 26,
+        "userId": 11,
+        "deviceId": "9c88a7c0-7222-405d-ae70-dd7440578d3c",
+        "platform": "android",
+        "fcmToken": "4724305e-a72c-4725-8f72-71a823158d16",
+        "lastActive": "3/10/2026"
+    },
+    {
+        "id": 27,
+        "userId": 13,
+        "deviceId": "c1ee46d2-e806-4064-afd6-6feb5be78071",
+        "platform": "android",
+        "fcmToken": "979135eb-ac29-410f-a169-4d33dd9bc05e",
+        "lastActive": "3/18/2026"
+    },
+    {
+        "id": 28,
+        "userId": 7,
+        "deviceId": "b185f3e1-7990-427b-a19b-556f4f8b8c48",
+        "platform": "ios",
+        "fcmToken": "a5d6a5d8-8de8-4b36-b49c-ce84276382bd",
+        "lastActive": "5/31/2026"
+    },
+    {
+        "id": 29,
+        "userId": 19,
+        "deviceId": "448226eb-f71e-481d-af00-b8bbe2404f83",
+        "platform": "ios",
+        "fcmToken": "3e43b7ce-d3b8-4d28-b472-8cb2f0ba4c98",
+        "lastActive": "7/28/2026"
+    },
+    {
+        "id": 30,
+        "userId": 15,
+        "deviceId": "fafd5594-cc03-4cd9-965f-f9def4c53a68",
+        "platform": "android",
+        "fcmToken": "f9797f34-1842-402b-ba5c-6bd47ec9ae69",
+        "lastActive": "6/28/2026"
+    },
+    {
+        "id": 31,
+        "userId": 12,
+        "deviceId": "45ca61b4-633e-49b9-8191-0abb1a8274a2",
+        "platform": "ios",
+        "fcmToken": "f7a49d0d-5490-4172-b6f8-0c3421ab9303",
+        "lastActive": "9/25/2025"
+    },
+    {
+        "id": 32,
+        "userId": 19,
+        "deviceId": "aee3285c-2294-49ed-9a08-038bb58b7fe7",
+        "platform": "android",
+        "fcmToken": "5ab303a9-0496-4066-b51a-b86e240f371b",
+        "lastActive": "5/10/2026"
+    },
+    {
+        "id": 33,
+        "userId": 16,
+        "deviceId": "055031e9-931b-4c26-bd98-4b0462f204a8",
+        "platform": "android",
+        "fcmToken": "8921fff2-eda8-474c-99c2-5c6fae9d462a",
+        "lastActive": "2/16/2025"
+    },
+    {
+        "id": 34,
+        "userId": 4,
+        "deviceId": "b4f4aae8-317f-4c9a-9352-9d9cd1d8528f",
+        "platform": "ios",
+        "fcmToken": "8c4dff42-29d1-4aa6-bbb6-63689af448fd",
+        "lastActive": "9/2/2026"
+    },
+    {
+        "id": 35,
+        "userId": 18,
+        "deviceId": "a4127789-e556-40e5-85fa-2ffe86914738",
+        "platform": "ios",
+        "fcmToken": "2bff3289-a330-48c2-a66a-0d107fb731ce",
+        "lastActive": "8/8/2026"
+    },
+    {
+        "id": 36,
+        "userId": 19,
+        "deviceId": "3836fd8c-6ec7-49fe-8297-21d7fa78655d",
+        "platform": "android",
+        "fcmToken": "c9f68cca-3fc8-484c-9472-d6d12ffe4934",
+        "lastActive": "4/24/2026"
+    },
+    {
+        "id": 37,
+        "userId": 1,
+        "deviceId": "72429f08-f75b-4cc0-b229-c25509344e6a",
+        "platform": "ios",
+        "fcmToken": "2223957b-243d-451e-9700-1e06f2e6b093",
+        "lastActive": "5/6/2025"
+    },
+    {
+        "id": 38,
+        "userId": 5,
+        "deviceId": "7c1c40fe-8aff-42ba-ba1b-a2d43e5fe7c0",
+        "platform": "android",
+        "fcmToken": "8de9a14b-4368-4618-8891-79625b1c432f",
+        "lastActive": "1/20/2025"
+    },
+    {
+        "id": 39,
+        "userId": 19,
+        "deviceId": "ebc8cc73-6062-470d-a645-fdc1aeff7bd4",
+        "platform": "ios",
+        "fcmToken": "98abc1c9-7eb7-4408-84ea-c1247303af13",
+        "lastActive": "2/26/2026"
+    },
+    {
+        "id": 40,
+        "userId": 19,
+        "deviceId": "9b9a212f-a0be-4c18-8dbd-29d86711919a",
+        "platform": "ios",
+        "fcmToken": "3758b9bd-4820-47be-84e8-3e94b7a5f561",
+        "lastActive": "12/1/2026"
+    }
+]
